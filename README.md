@@ -49,12 +49,10 @@ const Me:Person = {
 }
 ```
 
-<hr>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorAFRodrigues&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=344257" alt="victorAFRodrigues github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorAFRodrigues&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=344257" />
-</div>
-<hr>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052252&height=120&section=footer"/>
