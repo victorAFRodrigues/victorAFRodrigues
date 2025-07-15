@@ -1,36 +1,12 @@
-<img width=100% style="cursor:auto" src="https://capsule-render.vercel.app/api?type=waving&color=052252&height=120&section=header"/>
+## Sobre mim
 
-```javascript
+Sou um profissional qualificado e proativo com mais de quatro anos de experiência consolidada em todas as fases do ciclo de desenvolvimento web. Expertise em criação e customização de sites, landing pages e aplicações web, com foco em otimização (SEO e CoreWebVitals) e desenvolvimento de temas personalizados para WordPress, VTEX e Tray E-commerce. Habilidade comprovada em configurações de servidores e DNS, além de desenvolvimento back-end utilizando PHP com laravel e mySQL e front-end com Javascript, Next.js, Sass. Capacidade de atuar no suporte técnico e resolução de problemas para equipes de TI. Disponível para trabalho remoto, presencial ou híbrido.
 
-const Me = {
-    age: 21,
-    programing_languages: [
-        { name: 'JavaScript', knowledge_level: 'intermediate' },
-        { name: 'PHP', knowledge_level: 'intermediate' },
-        { name: 'Python', knowledge_level: 'intermediate' },
-        { name: 'TypeScript', knowledge_level: 'beginner' },
-    ],
-    frameworks_and_libs: [
-        { name: 'Angular', knowledge_level: 'intermediate' }
-        { name: 'React', knowledge_level: 'beginner' },
-        { name: 'Node', knowledge_level: 'beginner' },
-        { name: 'Laravel', knowledge_level: 'beginner' },
-        { name: 'Wordpress', knowledge_level: 'intermediate' },
-        { name: 'Pyautogui', knowledge_level: 'beginner' },
-        { name: 'Selenium', knowledge_level: 'beginner' }
-    ],
-    databases: [
-        { name: 'MySQL', knowledge_level: 'beginner'},
-        { name: 'MongoDB', knowledge_level: 'beginner'}
-    ]
-   
-    career_objective: "My main goal is to be a thorough Web Developer!"
-}
-```
+### Linguagens
+ ![MySkills](https://skillicons.dev/icons?i=html,css,js,ts,php)
 
+### Frameworks e Bibliotecas
+ ![MySkills](https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,laravel,bootstrap,tailwind)
 
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorAFRodrigues&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=344257" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=052252&height=120&section=footer"/>
+### Banco de dados
+ ![MySkills](https://skillicons.dev/icons?i=mysql,mongodb)
