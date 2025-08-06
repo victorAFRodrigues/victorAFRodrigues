@@ -6,7 +6,7 @@ Qualified and proactive professional with over four years of consolidated experi
  ![MySkills](https://skillicons.dev/icons?i=html,css,js,ts,php)
 
 ### Frameworks e Bibliotecas:
- ![MySkills](https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,laravel,bootstrap,tailwind)
+ ![MySkills](https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,laravel,bootstrap,tailwind,prisma)
 
 ### Banco de dados:
- ![MySkills](https://skillicons.dev/icons?i=mysql,mongodb)
+ ![MySkills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
