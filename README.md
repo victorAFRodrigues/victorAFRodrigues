@@ -1,12 +1,15 @@
 ## About me
 
-Qualified and proactive professional with over four years of consolidated experience in all phases of the web development lifecycle. Expertise in creating and customizing websites, landing pages, and web applications, with a focus on optimization (SEO and Core Web Vitals) and developing custom themes for WordPress, VTEX, and Tray E-commerce. Proven ability in server and DNS configurations, as well as back-end development using PHP with Laravel and MySQL and front-end with React.js, Next.js, Sass. Capable of providing technical support and troubleshooting for IT teams. Available for remote, in-person, or hybrid work.
+I am a Full Stack Developer with experience in .NET, C#, Laravel, Node.js, JavaScript, Next.js, and SQL, building scalable applications, APIs, and modern web interfaces. I focus on clean code, performance, and delivering efficient technical solutions. I am available for on-site or remote work.
 
-### Linguagens:
- ![MySkills](https://skillicons.dev/icons?i=html,css,js,ts,php,csharp)
+### Languages:
+ ![MySkills](https://skillicons.dev/icons?i=html,css,js,ts,php,cs)
 
-### Frameworks e Bibliotecas:
+### Frameworks e Libs:
  ![MySkills](https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,laravel,dotnet,bootstrap,tailwind,prisma)
 
-### Banco de dados:
+### Databases:
  ![MySkills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
+
+### Others:
+ ![MySkills](https://skillicons.dev/icons?i=figma,docker,git,linux)
