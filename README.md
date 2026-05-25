@@ -6,7 +6,7 @@ I am a Full Stack Developer with experience in .NET, C#, Laravel, Node.js, JavaS
  ![MySkills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,golang)
 
 ### Frameworks e Libs:
- ![MySkills](https://skillicons.dev/icons?i=astro,angular,dotnet)
+ ![MySkills](https://skillicons.dev/icons?i=astro,angular,dotnet,sass)
 
 ### Infra:
  ![MySkills](https://skillicons.dev/icons?i=docker,linux,aws,gcp,cloudflare,redis,mysql,mongodb,postgres,rabbitmq)
